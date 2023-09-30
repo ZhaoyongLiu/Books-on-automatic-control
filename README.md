@@ -10,5 +10,5 @@
 
 ## 二、高级控制理论
 [1] 冯缵刚, 郭治. 随机控制[M]. 北京：国防工业出版社，1988.  
-[2] 张洪钺, 王青. 最优控制理论与应用[M]. 北京：高等教育出版社，2006.
+[2] 张洪钺, 王青. 最优控制理论与应用[M]. 北京：高等教育出版社，2006.  
 [3] Steven L. Brunton, J. Nathan Kutz. Data-driven science and engineering[M].New York: Cambridge university press, 2019.
