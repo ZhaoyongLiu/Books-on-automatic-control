@@ -10,9 +10,9 @@
 
 ## 二、初级控制理论
 ### 1. 线性系统
-[1] H.K. Khalil. Nonlinear Systems, 3rd Edition[M]. New Jersey: Prentice Hall, 2001.
-### 2. 非线性系统
 
+### 2. 非线性系统
+[1] H.K. Khalil. Nonlinear Systems, 3rd Edition[M]. New Jersey: Prentice Hall, 2001.
 ### 3. 线性矩阵不等式
 [1] 俞立. 鲁棒控制——线性矩阵不等式处理方法[M]. 北京：清华大学出版社，2002.  
 [2] Guang-Ren Duan, Hai-Hua Yu. LMIs in Control Systems: Analysis, Design and Applications[M]. Boca Raton: CRC Press, 2013.   
