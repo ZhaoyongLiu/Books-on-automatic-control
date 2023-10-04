@@ -23,4 +23,6 @@
 [3] Steven L. Brunton, J. Nathan Kutz. Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control[M].New York: Cambridge University Press, 2019.
 
 ## 四、复杂动态系统
+[1] D. Liberzon. Switching in Systems and Control[M]. Boston: Birkhauser, 2003.
+[2] 俞立，张文安. 网络化控制系统分析与设计——切换系统处理方法[M]. 北京：科学出版社，2012.
 
