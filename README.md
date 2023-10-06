@@ -48,6 +48,7 @@
 [2] Guang-Ren Duan, Hai-Hua Yu. LMIs in Control Systems: Analysis, Design and Applications[M]. Boca Raton: CRC Press, 2013.   
 [3] LMI 工具箱介绍.
 ### 4. 控制系统计算机辅助设计
+[1] 薛定宇. 控制系统计算机辅助设计——MATLAB语言与应用[M]. 北京：清华大学出版社，2012.
 [4] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.
 ## 三、高级控制理论
 [1] 冯缵刚, 郭治. 随机控制[M]. 北京：国防工业出版社，1988.  
