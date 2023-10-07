@@ -45,8 +45,9 @@
 [1] H.K. Khalil. Nonlinear Systems, 3rd Edition[M]. New Jersey: Prentice Hall, 2001.
 ### 3. 线性矩阵不等式
 [1] 俞立. 鲁棒控制——线性矩阵不等式处理方法[M]. 北京：清华大学出版社，2002.  
-[2] Guang-Ren Duan, Hai-Hua Yu. LMIs in Control Systems: Analysis, Design and Applications[M]. Boca Raton: CRC Press, 2013.   
-[3] LMI 工具箱介绍.
+[2] Guang-Ren Duan, Hai-Hua Yu. LMIs in Control Systems: Analysis, Design and Applications[M]. Boca Raton: CRC Press, 2013.  
+[3] S. Boyd, E. Feron, L.E. Ghaoui, V. Balakrishnan. Linear Matrix Inequalities in System and Control Theory[M]. Philadelphia: SIAM, 1994.  
+[4] LMI 工具箱介绍.
 ### 4. 控制系统计算机辅助设计
 [1] 薛定宇. 控制系统计算机辅助设计——MATLAB语言与应用[M]. 北京：清华大学出版社，2012.  
 [2] 刘浩，韩晶. MATLAB 2018a 完全自学一本通[M]. 北京：电子工业出版社，2019.  
