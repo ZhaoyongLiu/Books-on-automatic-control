@@ -93,7 +93,9 @@
 [1] 冯缵刚, 郭治. 随机控制[M]. 北京：国防工业出版社，1988.  
 [2] 张洪钺, 王青. 最优控制理论与应用[M]. 北京：高等教育出版社，2006.  
 [3] Steven L. Brunton, J. Nathan Kutz. Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control[M]. New York: Cambridge University Press, 2019.  
-[4] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.
+[4] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.  
+[5] James B. Rawlings, David D. Mayne, and Moritz M. Diehl. Model Predictive Control: Theory, Computation, and Design, 2nd Edition[M]. Santa Barbara: Nob Hill Publishing, 2022.  
+[6] 陈虹. 模型预测控制[M]. 北京：科学出版社，2017.
 
 ## 四、复杂动态系统
 ### 1. 切换系统
