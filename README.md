@@ -88,13 +88,12 @@
 [2] 刘浩，韩晶. MATLAB 2018a 完全自学一本通[M]. 北京：电子工业出版社，2019.  
 [3] 李献，骆志伟，于晋臣. MATLAB/Simulink系统仿真[M]. 北京：清华大学出版社，2017.  
 [4] 陈垚光，毛涛涛，王正林，王玲. 精通MATLAB GUI设计[M]. 北京：电子工业出版社，2011.  
-[5] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.
-
 
 ## 三、高级控制理论
 [1] 冯缵刚, 郭治. 随机控制[M]. 北京：国防工业出版社，1988.  
 [2] 张洪钺, 王青. 最优控制理论与应用[M]. 北京：高等教育出版社，2006.  
-[3] Steven L. Brunton, J. Nathan Kutz. Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control[M]. New York: Cambridge University Press, 2019.
+[3] Steven L. Brunton, J. Nathan Kutz. Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control[M]. New York: Cambridge University Press, 2019.  
+[4] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.
 
 ## 四、复杂动态系统
 ### 1. 切换系统
