@@ -122,3 +122,10 @@
 [4] Zhendong Sun, Shuzhi Sam Ge. Stability Theory of Switched Dynamical Systems[M]. London: Springer, 2011.  
 [5] El-Kébir Boukas. Stochastic Switching Systems: Analysis and Design[M]. Boston: Birkhäuser, 2006. 
 
+### 2. 时滞系统
+[1] E. Fridman. Introduction to Time-Delay Systems: Analysis and Control[M]. Switzerland: Birkhäuser, 2014.  
+[2] W. Michiels, Silviu-lulian Niculescu. Stability and Stabilization of Time-Delay Systems[M]. Philadelphia: SIAM, 2007.  
+[3] 吴敏，何勇. 时滞系统鲁棒控制：自由权矩阵方法[M]. 北京：科学出版社，2008.
+
+
+
