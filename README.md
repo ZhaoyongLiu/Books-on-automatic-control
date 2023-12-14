@@ -78,7 +78,12 @@
 [4] Chi-Tsong Chen. 线性系统理论与设计[M]. 高飞，等，译. 北京：北京航空航天大学出版社，2019.
  
 ### 3. 非线性系统
-[1] H.K. Khalil. Nonlinear Systems, 3rd Edition[M]. New Jersey: Prentice Hall, 2001.
+[1] H.K. Khalil. Nonlinear Systems, 3rd Edition[M]. New Jersey: Prentice Hall, 2001.  
+[2] Jean-Jacques E. Slotine, W. Li. Applied Nonlinear Control[M]. New Jersey: Prentice Hall, 1991.  
+[3] 程代展. 非线性系统的几何理论[M]. 北京：科学出版社，1988.  
+[4] 冯纯伯，费树岷. 非线性控制系统分析与设计[M]. 北京：电子工业出版社，1998.  
+[5] M. Krstić, I. Kanellakopoulos, P. Kokotović. Nonlinear and Adaptive Control Design[M]. New York: John Wiley & Sons, 1995.
+
 
 ### 4. 线性矩阵不等式
 [1] 俞立. 鲁棒控制——线性矩阵不等式处理方法[M]. 北京：清华大学出版社，2002.  
