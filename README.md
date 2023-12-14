@@ -25,10 +25,13 @@
 
 #### 1.7 随机过程
 [1] 陆大䋮，张颢. 随机过程及其应用[M]. 北京：清华大学出版社，2010.  
-[2] A. Papoulis, S.U. Pillai. 概率、随机变量与随机过程[M]. 保诤，等，译. 西安：西安交通大学出版社，2012.
-
+[2] A. Papoulis, S. U. Pillai. 概率、随机变量与随机过程[M]. 保诤，等，译. 西安：西安交通大学出版社，2012.  
+[3] 刘次华. 随机过程[M]. 武汉：华中科技大学出版社，2014.  
+[4] S. M. Ross. 概率模型导论[M]. 龚光鲁，译. 北京：人民邮电出版社，2007.  
+[5] 方兆本，缪柏其. 随机过程[M]. 北京：科学出版社，2011.
+ 
 #### 1.8 离散数学
-[1] K.H. Rosen. 离散数学及其应用[M]. 袁崇义，等，译. 北京：机械工业出版社，2007.
+[1] K. H. Rosen. 离散数学及其应用[M]. 袁崇义，等，译. 北京：机械工业出版社，2007.
 
 #### 1.9 凸优化
 [1] S. Boyd, L. Vandenberghe. 凸优化[M]. 王书宁，等，译. 北京：清华大学出版社，2013.
@@ -59,14 +62,14 @@
 
 #### 3.2 点集拓扑
 [1] 熊金城. 点集拓扑讲义[M]. 北京：高等教育出版社，2011.  
-[2] M.A. Armstrong. 基础拓扑学[M]. 孙以丰，译. 北京：人民邮电出版社，2010.  
-[3] J.R. Munkres. 拓扑学[M]. 熊金城，等，译. 北京：机械工业出版社，2006.
+[2] M. A. Armstrong. 基础拓扑学[M]. 孙以丰，译. 北京：人民邮电出版社，2010.  
+[3] J. R. Munkres. 拓扑学[M]. 熊金城，等，译. 北京：机械工业出版社，2006.
 
 ## 二、初级控制理论
 ### 1. 控制工程基础
-[1] R.C. Dorf, R.H. Bishop. 现代控制系统[M]. 谢红卫，等，译. 北京：电子工业出版社，2015.  
+[1] R. C. Dorf, R. H. Bishop. 现代控制系统[M]. 谢红卫，等，译. 北京：电子工业出版社，2015.  
 [2] 胡寿松. 自动控制原理[M]. 北京：科学出版社，2013.  
-[3] G.F. Franklin, J.D. Powell, A. Emami-Naeini. 动态系统的反馈控制[M]. 刘建昌，等，译. 北京：机械工业出版社，2016.  
+[3] G. F. Franklin, J. D. Powell, A. Emami-Naeini. 动态系统的反馈控制[M]. 刘建昌，等，译. 北京：机械工业出版社，2016.  
 [4] 俞金寿，孙自强. 过程控制系统[M]. 北京：机械工业出版社，2015.  
 [5] 阮毅，杨影，陈伯时. 电力拖动自动控制系统——运动控制系统[M]. 北京：机械工业出版社，2016.  
 [6] 郭雷，程代展，冯德兴. 控制理论导论[M]. 北京：科学出版社，2005.  
@@ -79,7 +82,7 @@
 [4] Chi-Tsong Chen. 线性系统理论与设计[M]. 高飞，等，译. 北京：北京航空航天大学出版社，2019.
  
 ### 3. 非线性系统
-[1] H.K. Khalil. Nonlinear Systems, 3rd Edition[M]. New Jersey: Prentice Hall, 2001.  
+[1] H. K. Khalil. Nonlinear Systems, 3rd Edition[M]. New Jersey: Prentice Hall, 2001.  
 [2] Jean-Jacques E. Slotine, W. Li. Applied Nonlinear Control[M]. New Jersey: Prentice Hall, 1991.  
 [3] 程代展. 非线性系统的几何理论[M]. 北京：科学出版社，1988.  
 [4] 冯纯伯，费树岷. 非线性控制系统分析与设计[M]. 北京：电子工业出版社，1998.  
@@ -89,7 +92,7 @@
 ### 4. 线性矩阵不等式
 [1] 俞立. 鲁棒控制——线性矩阵不等式处理方法[M]. 北京：清华大学出版社，2002.  
 [2] Guang-Ren Duan, Hai-Hua Yu. LMIs in Control Systems: Analysis, Design and Applications[M]. Boca Raton: CRC Press, 2013.  
-[3] S. Boyd, E. Feron, L.E. Ghaoui, V. Balakrishnan. Linear Matrix Inequalities in System and Control Theory[M]. Philadelphia: SIAM, 1994.  
+[3] S. Boyd, E. Feron, L. E. Ghaoui, V. Balakrishnan. Linear Matrix Inequalities in System and Control Theory[M]. Philadelphia: SIAM, 1994.  
 [4] LMI 工具箱介绍.
 
 ### 5. 控制系统计算机辅助设计
