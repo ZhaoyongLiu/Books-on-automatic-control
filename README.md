@@ -120,10 +120,13 @@
 [1] James B. Rawlings, David D. Mayne, and Moritz M. Diehl. Model Predictive Control: Theory, Computation, and Design, 2nd Edition[M]. Santa Barbara: Nob Hill Publishing, 2022.  
 [2] 陈虹. 模型预测控制[M]. 北京：科学出版社，2017.
 
+### 6. 自抗扰控制
+[1] 韩京清. 自抗扰控制技术——估计补偿不确定因素的控制技术[M]. 北京：国防工业出版社，2016.
+
 ## 四、复杂动态系统
 ### 1. 切换系统
 [1] D. Liberzon. Switching in Systems and Control[M]. Boston: Birkhäuser, 2003.    
-[2] 俞立，张文安. 网络化控制系统分析与设计——切换系统处理方法[M]. 北京：科学出版社，2012.  
+[2] 俞立，张文安. 网络化控制系统分析与设计——切换系统处理方法[M]. 北京：科学技术出版社，2012.  
 [3] Zhendong Sun, Shuzhi Sam Ge. Switched Linear Systems: Control and Design[M]. London: Springer, 2005.  
 [4] Zhendong Sun, Shuzhi Sam Ge. Stability Theory of Switched Dynamical Systems[M]. London: Springer, 2011.  
 [5] El-Kébir Boukas. Stochastic Switching Systems: Analysis and Design[M]. Boston: Birkhäuser, 2006. 
