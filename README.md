@@ -118,7 +118,7 @@
 ### 4. 智能控制
 [1] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.  
 [2] 席爱民. 模糊控制技术[M]. 西安：西安电子科技大学出版社，2008.  
-[3] K. Tanaka, H.O. Wang, H. Wang. Fuzzy control systems design and analysis: A linear matrix inequality approach[M]. New York: Wiley, 2001.
+[3] K. Tanaka, H. Wang. Fuzzy control systems design and analysis: A linear matrix inequality approach[M]. New York: Wiley, 2001.
 
 ### 5. 模型预测控制
 [1] James B. Rawlings, David D. Mayne, and Moritz M. Diehl. Model Predictive Control: Theory, Computation, and Design, 2nd Edition[M]. Santa Barbara: Nob Hill Publishing, 2022.  
