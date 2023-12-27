@@ -136,5 +136,9 @@
 [2] W. Michiels, Silviu-lulian Niculescu. Stability and Stabilization of Time-Delay Systems[M]. Philadelphia: SIAM, 2007.  
 [3] 吴敏，何勇. 时滞系统鲁棒控制：自由权矩阵方法[M]. 北京：科学出版社，2008.
 
+### 3. 混杂系统
 
+### 4. 随机切换系统
+
+### 5. 脉冲系统
 
