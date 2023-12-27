@@ -88,8 +88,8 @@
 [2] Jean-Jacques E. Slotine, W. Li. Applied Nonlinear Control[M]. New Jersey: Prentice Hall, 1991.  
 [3] 程代展. 非线性系统的几何理论[M]. 北京：科学出版社，1988.  
 [4] 冯纯伯，费树岷. 非线性控制系统分析与设计[M]. 北京：电子工业出版社，1998.  
-[5] Alberto Isidori. Nonlinear Control Systems I[M]. London: Springer-Verilog, 1995.  
-[6] Alberto Isidori. Nonlinear Control Systems II[M]. London: Springer-Verilog, 1999.  
+[5] Alberto Isidori. Nonlinear Control Systems I[M]. London: Springer-Verlag, 1995.  
+[6] Alberto Isidori. Nonlinear Control Systems II[M]. London: Springer-Verlag, 1999.  
 [7] M. Krstić, I. Kanellakopoulos, P. Kokotović. Nonlinear and Adaptive Control Design[M]. New York: John Wiley & Sons, 1995.
 
 
@@ -117,6 +117,8 @@
 
 ### 4. 智能控制
 [1] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.  
+[2] 席爱民. 模糊控制技术[M]. 西安：西安电子科技大学出版社，2008.  
+[3] K. Tanaka, H.O. Wang, H. Wang. Fuzzy control systems design and analysis: A linear matrix inequality approach[M]. New York: Wiley, 2001.
 
 ### 5. 模型预测控制
 [1] James B. Rawlings, David D. Mayne, and Moritz M. Diehl. Model Predictive Control: Theory, Computation, and Design, 2nd Edition[M]. Santa Barbara: Nob Hill Publishing, 2022.  
