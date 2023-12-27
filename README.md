@@ -113,7 +113,7 @@
 ### 3. 数据驱动控制
 [1] Steven L. Brunton, J. Nathan Kutz. Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control[M]. New York: Cambridge University Press, 2019.  
 
-### 4. 智能控制
+### 4. 智能控制（模糊/神经网络控制）
 [1] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.  
 
 ### 5. 模型预测控制
