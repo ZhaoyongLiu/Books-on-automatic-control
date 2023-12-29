@@ -140,9 +140,14 @@
 [3] 吴敏，何勇. 时滞系统鲁棒控制：自由权矩阵方法[M]. 北京：科学出版社，2008.
 
 ### 3. 混杂系统
+[1]  R. Goebel, R. G. Sanfelice, A. R. Teel. Hybrid Dynamical Systems--Modeling, Stability, and Robustness[M]. New Jersey: Princeton University Press, 2012.
 
 ### 4. 随机切换系统
 [1] El-Kébir Boukas. Stochastic Switching Systems: Analysis and Design[M]. Boston: Birkhäuser, 2006. 
 
 ### 5. 脉冲系统
+
+### 6. 网络化控制系统
+[1] 关治洪，黄剑，丁李，姜晓伟. 网络控制系统的性能分析与设计[M].北京：科学出版社，2016.
+
 
