@@ -71,6 +71,9 @@
 [2] M. A. Armstrong. 基础拓扑学[M]. 孙以丰，译. 北京：人民邮电出版社，2010.  
 [3] J. R. Munkres. 拓扑学[M]. 熊金城，等，译. 北京：机械工业出版社，2006.
 
+### 4. 数学史
+[1] 张奠宙. 20世纪数学经纬[M]. 上海：华东师范大学出版社，2002.
+
 ## 二、初级控制理论
 ### 1. 控制工程基础
 [1] R. C. Dorf, R. H. Bishop. 现代控制系统[M]. 谢红卫，等，译. 北京：电子工业出版社，2015.  
@@ -131,6 +134,9 @@
 ### 6. 自抗扰控制
 [1] 韩京清. 自抗扰控制技术——估计补偿不确定因素的控制技术[M]. 北京：国防工业出版社，2008.
 
+### 7. 脉冲控制
+[1] Tao Yang. Impulsive Control Theory[M]. Heidelberg: Springer-Verlag, 2001.
+
 ## 四、复杂动态系统
 ### 1. 切换系统
 [1] D. Liberzon. Switching in Systems and Control[M]. Boston: Birkhäuser, 2003.    
@@ -149,9 +155,7 @@
 ### 4. 随机切换系统
 [1] El-Kébir Boukas. Stochastic Switching Systems: Analysis and Design[M]. Boston: Birkhäuser, 2006. 
 
-### 5. 脉冲系统
-
-### 6. 网络化控制系统
+### 5. 网络化控制系统
 [1] 关治洪，黄剑，丁李，姜晓伟. 网络控制系统的性能分析与设计[M].北京：科学出版社，2016.
 
 
