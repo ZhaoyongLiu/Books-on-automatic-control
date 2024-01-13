@@ -126,7 +126,8 @@
 ### 4. 智能控制
 [1] 刘金琨. 智能控制[M]. 北京：电子工业出版社，2017.  
 [2] 席爱民. 模糊控制技术[M]. 西安：西安电子科技大学出版社，2008.  
-[3] K. Tanaka, H. Wang. Fuzzy control systems design and analysis: A linear matrix inequality approach[M]. New York: Wiley, 2001.
+[3] K. Tanaka, H. Wang. Fuzzy control systems design and analysis: A linear matrix inequality approach[M]. New York: Wiley, 2001.  
+[4] 刘金琨. RBF神经网络自适应控制及MATLAB仿真[M]. 北京：清华大学出版社，2018.
 
 ### 5. 模型预测控制
 [1] James B. Rawlings, David D. Mayne, and Moritz M. Diehl. Model Predictive Control: Theory, Computation, and Design, 2nd Edition[M]. Santa Barbara: Nob Hill Publishing, 2022.  
@@ -136,7 +137,32 @@
 [1] 韩京清. 自抗扰控制技术——估计补偿不确定因素的控制技术[M]. 北京：国防工业出版社，2008.
 
 ### 7. 脉冲控制
-[1] Tao Yang. Impulsive Control Theory[M]. Heidelberg: Springer-Verlag, 2001.
+[1] Tao Yang. Impulsive Control Theory[M]. Heidelberg: Springer-Verlag, 2001.  
+[2] Xiaodi Li, Shiji Song. Impulsive Systems with Delays[M]. Singapore: Springer-Verlag, 2022.  
+
+### 8. 无模型控制
+[1] 侯忠生，金尚泰. 无模型自适应控制——理论与应用[M]. 北京：科学出版社，2013.  
+
+### 9. 滑模控制
+[1] C. Edwards, S. K. Spurgeon. Sliding Mode Control: Theory and Applications[M]. Boca Raton: CRC Press, 1998.  
+[2] 刘金琨. 滑模变结构MATLAB仿真：基本理论与设计方法[M]. 北京：清华大学出版社，2015.
+
+### 10. 有限时间控制
+[1] F. Amato, R. Ambrosino, M. Ariola, C. Cosentino, G. D. Tommasi. Finite-Time Stability and Control[M]. London: Springer-Verlag, 2014. 
+
+### 11. 自适应控制
+[1] 李言俊， 张科. 自适应控制理论及其应用[M]. 西安：西北工业大学出版社，2005.  
+[2] 庞中华，崔红. 系统辨识与自适应控制MATLAB仿真[M]. 北京：北京航空航天大学出版社，2017.
+
+### 12. 鲁棒控制
+[1] Kemin Zhou. Essentials of Robust Control[M].New Jersey: Printice-Hall, 1998.  
+[2] 吴敏，桂卫华，何勇. 现代鲁棒控制[M]. 长沙：中南大学出版社，2006.
+
+### 13. 故障诊断与容错控制
+[1] Steven X. Ding. Model-Based Fault Diagnosis Techniques: Design Schemes, Algorithms and Tools[M]. London: Springer-Verlag, 2013.  
+[2] R. Isermann. Fault-Diagnosis Systems: An Introduction from Fault Detection to Fault Tolerance[M]. Berlin: Springer-Verlag, 2006.  
+[3] Steven X. Ding. Data-driven Design of Fault Diagnosis and Fault-tolerant Control Systems[M]. London: Springer-Verlag, 2014.  
+
 
 ## 四、复杂动态系统
 ### 1. 切换系统
@@ -151,7 +177,7 @@
 [3] 吴敏，何勇. 时滞系统鲁棒控制：自由权矩阵方法[M]. 北京：科学出版社，2008.
 
 ### 3. 混杂系统
-[1]  R. Goebel, R. G. Sanfelice, A. R. Teel. Hybrid Dynamical Systems--Modeling, Stability, and Robustness[M]. New Jersey: Princeton University Press, 2012.
+[1] R. Goebel, R. G. Sanfelice, A. R. Teel. Hybrid Dynamical Systems--Modeling, Stability, and Robustness[M]. New Jersey: Princeton University Press, 2012.
 
 ### 4. 随机切换系统
 [1] El-Kébir Boukas. Stochastic Switching Systems: Analysis and Design[M]. Boston: Birkhäuser, 2006. 
@@ -159,4 +185,4 @@
 ### 5. 网络化控制系统
 [1] 关治洪，黄剑，丁李，姜晓伟. 网络控制系统的性能分析与设计[M].北京：科学出版社，2016.
 
-
+### 6. 广义系统
