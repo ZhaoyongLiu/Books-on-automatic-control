@@ -97,7 +97,8 @@
 [4] 冯纯伯，费树岷. 非线性控制系统分析与设计[M]. 北京：电子工业出版社，1998.  
 [5] Alberto Isidori. Nonlinear Control Systems I[M]. London: Springer-Verlag, 1995.  
 [6] Alberto Isidori. Nonlinear Control Systems II[M]. London: Springer-Verlag, 1999.  
-[7] M. Krstić, I. Kanellakopoulos, P. Kokotović. Nonlinear and Adaptive Control Design[M]. New York: John Wiley & Sons, 1995.
+[7] M. Krstić, I. Kanellakopoulos, P. Kokotović. Nonlinear and Adaptive Control Design[M]. New York: John Wiley & Sons, 1995.  
+[8] 王久和. 无源控制理论理论及其应用[M]. 北京：电子工业出版社，2010.
 
 
 ### 4. 线性矩阵不等式
