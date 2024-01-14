@@ -204,6 +204,6 @@
 [1] 段广仁. 广义线性系统分析与设计[M]. 段广仁，等，译. 北京：北京科学出版社，2012.
 
 ### 7. 正系统
-
+[1] L. Farina, S. Rinaldi. Positive Linear Systems: Theory and Applications[M]. New York: Wiley, 2000.
 
 
