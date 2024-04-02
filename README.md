@@ -322,7 +322,7 @@
 [1] F. Amato, R. Ambrosino, M. Ariola, C. Cosentino, G. D. Tommasi. Finite-Time Stability and Control[M]. London: Springer-Verlag, 2014. 
 
 ### 10. 自适应控制
-[1] 李言俊， 张科. 自适应控制理论及其应用[M]. 西安：西北工业大学出版社，2005.  
+[1] 李言俊，张科. 自适应控制理论及其应用[M]. 西安：西北工业大学出版社，2005.  
 [2] 庞中华，崔红. 系统辨识与自适应控制MATLAB仿真[M]. 北京：北京航空航天大学出版社，2017.
 
 ### 11. 鲁棒控制
