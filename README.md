@@ -298,7 +298,8 @@
 [5] Alberto Isidori. Nonlinear Control Systems I[M]. London: Springer-Verlag, 1995.  
 [6] Alberto Isidori. Nonlinear Control Systems II[M]. London: Springer-Verlag, 1999.  
 [7] M. Krstić, I. Kanellakopoulos, P. Kokotović. Nonlinear and Adaptive Control Design[M]. New York: John Wiley & Sons, 1995.  
-[8] 王久和. 无源控制理论理论及其应用[M]. 北京：电子工业出版社，2010.
+[8] 王久和. 无源控制理论理论及其应用[M]. 北京：电子工业出版社，2010.  
+[9] E. D. Sontag. Mathematical Control Theory--Deterministic Finite Dimensional Systems[M]. New York: Springer, 1998.  
 
 
 ### 4. 线性矩阵不等式
