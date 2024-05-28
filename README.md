@@ -283,7 +283,11 @@
 [4] 俞金寿，孙自强. 过程控制系统[M]. 北京：机械工业出版社，2015.  
 [5] 阮毅，杨影，陈伯时. 电力拖动自动控制系统--运动控制系统[M]. 北京：机械工业出版社，2016.  
 [6] 郭雷，程代展，冯德兴. 控制理论导论[M]. 北京：科学出版社，2005.  
-[7] 程代展. 系统与控制中的近代数学基础[M]. 北京：清华大学出版社，2007.
+[7] 程代展. 系统与控制中的近代数学基础[M]. 北京：清华大学出版社，2007.  
+[8] M. W. Hirsch, S. Smale, R. L. Devaney. 微分方程、动力系统与混沌引论[M]. 金成桴，等，译. 哈尔滨：哈尔滨工业大学出版社，2020.  
+[9] 王天威. 控制之美 卷I--控制理论从传递函数到状态空间[M]. 北京：清华大学出版社，2022.  
+[10] W. S. Levine. 控制系统手册--控制系统先进方法[M]. Boca Raton: CRC Press, 2011.  
+
 
 ### 2. 线性系统
 [1] 张志方，孙常胜. 线性控制系统教程[M]. 北京：科学出版社，1993.   
@@ -315,6 +319,36 @@
 [3] 李献，骆志伟，于晋臣. MATLAB/Simulink系统仿真[M]. 北京：清华大学出版社，2017.  
 [4] 陈垚光，毛涛涛，王正林，王玲. 精通MATLAB GUI设计[M]. 北京：电子工业出版社，2011.  
 [5] 施梨. MATLAB工程仿真与应用30例[M]. 北京：电子工业出版社，2015.
+
+### 6. 控制系统的行业应用
+[1] W. S. Levine. 控制手册--控制系统的行业应用 I[M]. 张爱民，等，译. 西安：西安交通大学出版社，2016.  
+[2] W. S. Levine. 控制手册--控制系统的行业应用 II[M]. 张爱民，等，译. 西安：西安交通大学出版社，2017. 
+
+### 7. PID
+[1] 刘金琨. 先进PID控制MATLAB仿真[M]. 北京：电子工业出版社，2016.   
+[2] R. Vilanova, A. Visioli. PID Control in the Third Millennium[M]. London: Springer-Verlag, 2012.  
+
+### 8. 状态估计
+[1] D. Simon. 最优状态估计--卡尔曼、H无穷及非线性滤波[M]. 张勇刚，等，译. 北京：国防工业出版社，2013.  
+[2] 金学波. Kalman滤波器理论与应用--基于MATLAB实现[M]. 北京：科学出版社，2016.  
+[3] 黄小平，王岩. 卡尔曼滤波原理及应用--MATLAB仿真[M]. 北京：电子工业出版社，2015.  
+[4] O. Naifar, A. B. Makhlouf. Advances in Observer Design and Observation for Nonlinear System--Fundamentals and Applications[M]. Switzerland: Springer, 2022.  
+[5] D. Boutat, G. Zheng. Observer Design for Nonlinear Dynamical Systems[M]. Switzerland: Springer, 2021.  
+[6] P. Bernard. Observer Design for Nonlinear Systems[M]. Swizerland: Springer, 2019.  
+[7] R. Martínez-Guerra, C. D. Cruz-Ancona. Algorithms of Estimation for Nonlinear Systems--A Differential and Algebraic Viewpoint[M]. Swizerland: Springer, 2017.  
+[8] H. K. Khalil. High-Gain Observers in Nonlinear Feedback Control[M]. Philadelphia: SIAM, 2017.  
+[9] G. Besançon. Nonlinear Observers and Applications[M]. Heidelberg: Springer-Verlag, 2007.  
+[10] H. Nijmeijer, T. I. Fossen. New Directions in Nonlinear Observer Design[M]. London: Springer-Verlag, 1999.  
+
+
+### 9. 系统辨识
+[1] 李言俊，张科. 系统辨识理论及应用[M]. 北京：国防工业出版社，2003.  
+[2] L. Ljung. 系统辨识理论[M]. New Jersey: Prentice Hall, 1999. 
+
+### 10. 输出调节
+[1] J. Huang. Nonlinear Output Regulation--Theory and Applications[M]. Philadelphia: SIAM, 2004. 
+
+
 
 ## 九、高级控制理论
 ### 1. 随机控制
