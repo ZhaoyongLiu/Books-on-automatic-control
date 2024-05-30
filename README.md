@@ -286,7 +286,7 @@
 [7] 程代展. 系统与控制中的近代数学基础[M]. 北京：清华大学出版社，2007.  
 [8] M. W. Hirsch, S. Smale, R. L. Devaney. 微分方程、动力系统与混沌引论[M]. 金成桴，等，译. 哈尔滨：哈尔滨工业大学出版社，2020.  
 [9] 王天威. 控制之美 卷I--控制理论从传递函数到状态空间[M]. 北京：清华大学出版社，2022.  
-[10] W. S. Levine. 控制系统手册--控制系统先进方法[M]. Boca Raton: CRC Press, 2011.  
+[10] W. S. Levine. 控制手册--控制系统先进方法[M]. Boca Raton: CRC Press, 2011.  
 
 
 ### 2. 线性系统
@@ -324,7 +324,7 @@
 [1] W. S. Levine. 控制手册--控制系统的行业应用 I[M]. 张爱民，等，译. 西安：西安交通大学出版社，2016.  
 [2] W. S. Levine. 控制手册--控制系统的行业应用 II[M]. 张爱民，等，译. 西安：西安交通大学出版社，2017. 
 
-### 7. PID
+### 7. PID 控制
 [1] 刘金琨. 先进PID控制MATLAB仿真[M]. 北京：电子工业出版社，2016.   
 [2] R. Vilanova, A. Visioli. PID Control in the Third Millennium[M]. London: Springer-Verlag, 2012.  
 
