@@ -344,6 +344,7 @@
 [7] M. Krstić, I. Kanellakopoulos, P. Kokotović. Nonlinear and Adaptive Control Design[M]. New York: John Wiley & Sons, 1995.  
 [8] 王久和. 无源控制理论理论及其应用[M]. 北京：电子工业出版社，2010.  
 [9] E. D. Sontag. Mathematical Control Theory--Deterministic Finite Dimensional Systems[M]. New York: Springer, 1998.  
+[10] H. K. Khalil. 非线性控制[M]. 韩正之，等，译. 北京：机械工业出版社，2016.  
 
 
 ### 4. 线性矩阵不等式
