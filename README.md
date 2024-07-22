@@ -335,7 +335,8 @@
 [1] 张志方，孙常胜. 线性控制系统教程[M]. 北京：科学出版社，1993.   
 [2] 刘豹，唐万生. 现代控制理论[M]. 北京：机械工业出版社，2006.  
 [3] 郑大钟. 线性系统理论[M]. 北京：清华大学出版社，2000.  
-[4] Chi-Tsong Chen. 线性系统理论与设计[M]. 高飞，等，译. 北京：北京航空航天大学出版社，2019.
+[4] Chi-Tsong Chen. 线性系统理论与设计[M]. 高飞，等，译. 北京：北京航空航天大学出版社，2019.  
+[5] P. J. Antsaklis, A. N. Michel. Linear Systems[M]. Boston: Birkhäuser, 2006.
  
 ### 3. 非线性系统
 [1] H. K. Khalil. Nonlinear Systems, 3rd Edition[M]. New Jersey: Prentice Hall, 2001.  
@@ -391,7 +392,6 @@
 
 ### 10. 输出调节
 [1] J. Huang. Nonlinear Output Regulation--Theory and Applications[M]. Philadelphia: SIAM, 2004. 
-
 
 
 ## 九、高级控制理论
