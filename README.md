@@ -471,4 +471,6 @@
 ### 8. 正系统
 [1] L. Farina, S. Rinaldi. Positive Linear Systems: Theory and Applications[M]. New York: Wiley, 2000.
 
-
+## 十一、学术研究与论文写作
+[1] 凌晓峰，杨强. 学术研究，你的成功之道[M]. 北京：清华大学出版社，2012.  
+[2] 钟澄. 科学研究与论文写作[M]. 北京：科学出版社，2020.  
