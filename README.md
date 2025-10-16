@@ -469,7 +469,7 @@ _注：本书单是在自动化本、硕、博培养计划（以南理工为例�
 [2] 庞中华，崔红. 系统辨识与自适应控制MATLAB仿真[M]. 北京：北京航空航天大学出版社，2017.
 
 ### 11. 鲁棒控制
-[1] Kemin Zhou. Essentials of Robust Control[M].New Jersey: Printice-Hall, 1998.  
+[1] Kemin Zhou. Essentials of Robust Control[M]. New Jersey: Printice-Hall, 1998.  
 [2] 吴敏，桂卫华，何勇. 现代鲁棒控制[M]. 长沙：中南大学出版社，2006.
 
 ### 12. 故障诊断与容错控制
