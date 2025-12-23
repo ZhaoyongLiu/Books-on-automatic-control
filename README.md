@@ -428,6 +428,15 @@ _注：本书单是在自动化本、硕、博培养计划（以南理工为例�
 [1] J. Huang. Nonlinear Output Regulation--Theory and Applications[M]. Philadelphia: SIAM, 2004. 
 
 
+### 12. 数字控制
+[1] K. J. Astrom, B. Wittenmark. Computer-Controlled Systems--Theory and Design[M]. Prentice Hall, 1997.  
+[2] T. Chen, B. Francis. Optimal Sampled-Data Control Systems[M]. London: Springer-Verlag, 1994.  
+[3] G. F. Franlin, J. D. Powell, M. L. Workman. Digital Control of Dynamic Systems[M]. Addison-Wesley, 1998.  
+[4] C. L. Phillips, H. T. Nagle, A. Chakrabortty. Digital Control System Analysis and Design[M]. Pearson, 2015.  
+[5] M. S. Fadali, A. Visioli. Digital Control Engineering--Analysis and Design[M]. Academic Press, 2020.  
+[6] 于微波. 计算机控制系统[M]. 北京：机械工业出版社，2016.  
+[7] P. H. Petkov, T. N. Slavov, J. K. Kralev. Design of Embedded Robust Control Systems Using MATLAB/Simulink[M]. London: IET, 2018.  
+
 ## 九、高级控制理论
 ### 1. 随机控制
 [1] 冯缵刚, 郭治. 随机控制[M]. 北京：国防工业出版社，1988.  
