@@ -101,7 +101,7 @@ _注：本书单是在自动化本、硕、博培养计划（以南理工为例�
 [2] M. Berger, B. Gostiaux. 微分几何--流形、曲线和曲面[M]. 王耀东，译. 北京：高等教育出版社，2009.  
 [3] M. P. do Carmo. 曲线与曲面的微分几何[M]. 田畴，等，译. 北京：机械工业出版社，2005.  
 
-### 4.离散数学
+### 4. 离散数学
 [1] K. H. Rosen. Discrete Mathematics and Its Applications[M]. New York: McGraw-Hill，2012.  
 
 ### 5. 数学史
