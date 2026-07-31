@@ -566,7 +566,8 @@ _注：本书单是在自动化本、硕、博培养计划（以南理工为例�
 [7] R. Martínez-Guerra, C. D. Cruz-Ancona. Algorithms of Estimation for Nonlinear Systems--A Differential and Algebraic Viewpoint[M]. Swizerland: Springer, 2017.  
 [8] H. K. Khalil. High-Gain Observers in Nonlinear Feedback Control[M]. Philadelphia: SIAM, 2017.  
 [9] G. Besançon. Nonlinear Observers and Applications[M]. Heidelberg: Springer-Verlag, 2007.  
-[10] H. Nijmeijer, T. I. Fossen. New Directions in Nonlinear Observer Design[M]. London: Springer-Verlag, 1999.  
+[10] J. P. Gauthier, I. Kupka. Deterministic observation theory and applications[M]. Cambridge: Cambridge University Press, 2001.  
+[11] H. Nijmeijer, T. I. Fossen. New Directions in Nonlinear Observer Design[M]. London: Springer-Verlag, 1999.  
 
 
 ### 10. 系统辨识
