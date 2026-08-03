@@ -531,6 +531,8 @@ _注：本书单是在自动化本、硕、博培养计划（以南理工为例�
 [8] 王久和. 无源控制理论理论及其应用[M]. 北京：电子工业出版社，2010.  
 [9] E. D. Sontag. Mathematical Control Theory--Deterministic Finite Dimensional Systems[M]. New York: Springer, 1998.  
 [10] H. K. Khalil. 非线性控制[M]. 韩正之，等，译. 北京：机械工业出版社，2016.  
+[11] R. Sepulchre, M. Janković and P. Kokotović. Constructive Nolinear Control[M]. London: Springer-Verlag, 1997.  
+
 
 
 ### 5. 线性矩阵不等式
