@@ -658,7 +658,12 @@ _注：本书单是在自动化本、硕、博培养计划（以南理工为例�
 [3] 吴敏，何勇. 时滞系统鲁棒控制：自由权矩阵方法[M]. 北京：科学出版社，2008.
 
 ### 3. 混杂系统
-[1] R. Goebel, R. G. Sanfelice, A. R. Teel. Hybrid Dynamical Systems--Modeling, Stability, and Robustness[M]. New Jersey: Princeton University Press, 2012.
+[1] R. Goebel, R. G. Sanfelice, A. R. Teel. Hybrid Dynamical Systems--Modeling, Stability, and Robustness[M]. New Jersey: Princeton University Press, 2012.  
+[2] E. De Santis, M. D. Di Benedetto. H-Systems: Observability, Diagnosability, and Predictability of Hybrid Dynamical Systems[M]. Cham: Springer, 2023.  
+[3] H. Lin, P. J. Antsaklis. Hybrid Dynamical Systems: Fundamentals and Methods[M]. Cham: Springer, 2022.  
+[4] J. Lunze, F. Lamnabhi-Lagarrigue. Handbook of Hybrid Systems Control: Theory, Tools, Applications[M]. Cambridge: Cambridge University Press, 2009.  
+[5] C. G. Cassandras, J. Lygeros. Stochastic Hybrid Systems[M]. Boca Raton: CRC Press, 2007.  
+
 
 ### 4. 随机切换系统
 [1] El-Kébir Boukas. Stochastic Switching Systems: Analysis and Design[M]. Boston: Birkhäuser, 2006. 
